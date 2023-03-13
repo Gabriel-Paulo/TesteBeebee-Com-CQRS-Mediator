@@ -11,7 +11,7 @@ using Web.Models;
 namespace Web.Migrations
 {
     [DbContext(typeof(ClientesContext))]
-    [Migration("20230312234214_Criacao-Inicial")]
+    [Migration("20230313024518_Criacao-Inicial")]
     partial class CriacaoInicial
     {
         /// <inheritdoc />
